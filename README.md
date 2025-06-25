@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Lohita Sruti J C
+I am a final year Electronics and Communication Engineering (ECE) student at jeppiaar engineering college.
+I am currently learning Git, Excel, SQL, Python, and basic data analytics. I have a strong interest in electronics, data handling, and building small projects related to IoT and embedded systems.
 
-<!--
-**lohita2004/lohita2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills and Tools
 
-Here are some ideas to get you started:
+Git and GitHub
+Microsoft Excel
+SQL
+Python (Basic)
+IoT and Circuit-based Mini Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm Working On
+
+Building a small project using Excel and SQL
+Learning Python for basic 
+Improving my Git and GitHub workflow
+
+Contact
+
+LinkedIn:https://www.linkedin.com/in/lohita-sruti-j-c-275450264
+
+Interests
+
+Data Analytics
+java
+Python
+Internship & Research Opportunities
